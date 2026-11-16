@@ -25,8 +25,8 @@ The university requires a system to manage departments, students, lecturers, cou
 
 3. Entity Relationship Diagram (ERD)
 (See the docs/ERD.png file in this repository for the visual diagram).
-![ERD Diagram](docs/ERD.png)
 
+[ERD Diagram](docs/ERD.png)
 4. Relational Database Schema
 The database schema is generated using Hibernate. Here is the structure showing tables, Primary Keys (PK), and Foreign Keys (FK):
 
