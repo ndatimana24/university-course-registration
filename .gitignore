@@ -1,3 +1,0 @@
-git init
-git add .
-git commit -m "Complete Model and Repository layers with verified database relationships"
